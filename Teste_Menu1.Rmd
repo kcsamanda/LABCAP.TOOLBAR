@@ -1,0 +1,42 @@
+---
+title: "     LABORÁTORIO DE ESTATÍSTICA      "
+author: "Amanda Kelly Costa"
+date: "26/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# {.tabset}
+
+## PROJETO CAPLAB 
+
+Esse Projeto tem o intuito de auxiliar o estudo e aprendizado da Estatística no Nível Superior.
+
+
+
+## CONTATO
+
+xxxxxx@ufsj.com.br
+(31)0000-0000
+
+
+
+
+## ESTATISTICA {.tabset}
+
+<p style="font-family: times, serif; font-size:16pt; font-style: italic">
+
+ Livro Estatística Descritiva 
+
+</p>
+
+### capítulo 1
+
+### capítulo 2
+
+
+
+## CALCULADORA ESTATÍSTICA
